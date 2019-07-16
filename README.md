@@ -25,6 +25,9 @@ statements, loops, lists, tuples, sets, dicts, functions
 Overview, Array, selecting data, Slicing, Iterating,
 Manuplications, stacking, splitting arrays, functions
 
+[Code](./code/experiment_numpy.py)
+[Notebook](./notebooks/experiment_numpy.ipynb)
+
 ### Module 4 Pandas Package
 Overview, Series and DataFrame, manuplication.
 
