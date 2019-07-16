@@ -15,30 +15,54 @@ Placement Assistance
 Included
 
 ### Module 1 Introduction to Data Science with Python
-Installing Python, Programming basics, Native Data types
+1. Installing Python
+2. Programming basics
+3. Native Data types
 
 ### Module 2 Python Basics: Basic Syntax, Data Structures
-Data objects, Math, comparison operators, condition
-statements, loops, lists, tuples, sets, dicts, functions
+1. Data objects
+2. Math
+3. comparison operators
+4. condition
+5. statements
+6. loops
+7. lists
+8. tuples 
+9. sets
+10. dicts
+11. functions
 
 ### Module 3 Numpy Package
-Overview, Array, selecting data, Slicing, Iterating,
-Manuplications, stacking, splitting arrays, functions
+1. Overview
+2. Array
+3. selecting data
+4. Slicing
+5. Iterating
+6. Manuplications
+7. stacking
+8. splitting arrays
+9. functions
 
 [Code](./code/experiment_numpy.py)
 [Notebook](./notebooks/experiment_numpy.ipynb)
 
 ### Module 4 Pandas Package
-Overview, Series and DataFrame, manuplication.
+1. Overview
+2. Series and DataFrame
+3. manuplication.
 
 ### Module 5 Python Advanced: Data Mugging with Pandas
-Histogramming, grouping, aggregation, treating missing
-values, removing duplicates, Transforming data
+1. Histogramming
+2. grouping
+3. aggregation
+4. treating missing values
+5. removing duplicates
+6. Transforming data
 
 ### Module 6 Python Advanced: Visualization with MatPlotLib
-
 ### Module 7 Exploratory Data Analysis:
-Data Cleaning, Data Wrangling
+1. Data Cleaning
+2. Data Wrangling
 
 ### Module 8 Exploratory Data Analysis: Case Study
 
@@ -56,19 +80,28 @@ Placement Assistance
 Included
 
 ### Module 1 Introduction to Statistics
-Descriptive and Inferential Statistics. Definitions , terms,
-types of data
+1. Descriptive and Inferential Statistics. Definitions 
+2. terms
+3. types of data
 ### Module 2 Harnessing Data
-Types of Sampling Data. Simple random sampling,
-Stratified, Cluster sampling. Sampling error.
+1. Types of Sampling Data. Simple random sampling
+2. Stratified, Cluster sampling. Sampling error.
 ### Module 3 Exploratory Analysis
-Mean, Median and Mode, Data variability, Standard
+1. Mean
+2. Median and Mode
+3. Data variability
+4. Standard
 deviation, Z-score, Outliers
 ### Module 4 Distributions
-Normal Distribution, Central Limit Theorem, Histogram,
-Normalization, Normality tests, skewness, Kurtosis.
+1. Normal Distribution
+2. Central Limit Theorem
+3. Histogram
+4. Normalization, Normality tests, skewness, Kurtosis.
 ### Module 5 Hypothesis & computational Techniques
-Hypothesis Testing, Null Hypothesis, P-value, Type I & II
+1. Hypothesis Testing
+2. Null Hypothesis
+3. P-value
+4. Type I & II
 errors, parametric testing: t- tests, anova test, non-
 parametric testing
 ### Module 6 Correlation & Regression
@@ -87,21 +120,26 @@ Placement Assistance
 Included
 
 ### Module 1 Machine Learning Introduction
-What is ML? ML vs AI. ML workflow, statistical modeling
-of ML. Application of ML
+1. What is ML? ML vs AI. ML workflow
+2. statistical modeling of ML. 
+3. Application of ML
 ### Module 2 Machine Learning Algorithms
-Popular ML algorithms, clustering, classification and
+1. Popular ML algorithms
+2. clustering
+3. classification and
 regression, supervised vs unsupervised. Choice of ML
 ### Module 3 Supervised Learning
-Simple and Multiple Linear regression, KNN, and more.
+1. Simple and Multiple Linear regression
+2. KNN and more.
 ### Module 4 Linear Regression and Logistic Regression
-Theory of Linear regression, hands on with use cases
+1. Theory of Linear regression
+2. hands on with use cases
 ### Module 5
-K-Nearest Neighbour (KNN)
+1. K-Nearest Neighbour (KNN)
 ### Module 6 Decision Tree
 ### Module 7 Naïve Bayes Classifier
 ### Module 8 Unsupervised Learning
-K-means Clustering.
+1. K-means Clustering.
 
 ## Machine Learning Expert
 Data Scientist Track – Core Module
@@ -118,27 +156,32 @@ Included
 
 
 ### Module 1 Advanced Machine Learning Concepts
-Tuning with Hyper parameters. Popular ML algorithms,
-clustering, classification and regression, supervised vs
-unsupervised. Choice of ML
+1. Tuning with Hyper parameters. Popular ML algorithms
+2. clustering
+3. classification and regression
+4. supervised vs unsupervised Choice of ML
 ### Module 2
-Random Forest – Ensemble
-Ensemble theory, random forest tuning
+1. Random Forest – Ensemble
+2. Ensemble theory
+3. random forest tuning
 ### Module 3
-Support Vector Machine (SVM)
-Simple and Multiple Linear regression, KNN,
+1. Support Vector Machine (SVM)
+2. Simple and Multiple Linear regression
+3. KNN
 ### Module 4
-Natural Language Processing (NLP)
-Text Processing with Vectorization, Sentiment analysis
-with TextBlob, Twitter sentiment analysis.
+1. Natural Language Processing (NLP)
+2. Text Processing with Vectorization
+3. Sentiment analysis with TextBlob
+4. Twitter sentiment analysis.
 ### Module 5
-Naïve Bayes Classifier
-Naïve Bayes for text classification, new articles tagging
+1. Naïve Bayes Classifier
+2. Naïve Bayes for text classification
+3. new articles tagging
 ### Module 6
-Artificial Neural Network (ANN)
-Basic ANN network for regression and classification
+1. Artificial Neural Network (ANN)
+2. Basic ANN network for regression and classification
 ### Module 7 Tensorflow overview and Deep Learning Intro
-Tensorflow work flow demo and intro to deep learning.
+1. Tensorflow work flow demo and intro to deep learning.
 
 ## Time Series Analysis
 Data Scientist Track – Core Module
@@ -180,11 +223,15 @@ Included
 
 
 ### Module 1 Image Processing fundamentals
-Image Basics, Converting image to Numpy Array
+1. Image Basics
+2. Converting image to Numpy Array
 ### Module 2 Introduction to CNN
-Convolution – feature maps, max pooling, ANN
+1. Convolution – feature maps
+2. max pooling
+3. ANN
 ### Module 3 Image classification (Cats and Dogs)
-Keras with tensorflow, hands on image classification CNN
+1. Keras with tensorflow
+2. hands on image classification CNN
 
 ## Data Scientist Track – Core Module
 Course ID: DS1051
@@ -200,14 +247,18 @@ Included
 
 
 ### Module 1 REST API
-API concepts, web servers, URL parameters
+1. API concepts
+2. web servers
+3. URL parameters
 ### Module 2 FLASK Web framework
-Installing flask, configuration.
+1. Installing flask
+2. configuration.
 ### Module 3 API in Flask
-API coding in Flask
+1. API coding in Flask
 ### Module 4 End to End Deployment
-Exporting trained model, creating end to end API.
-Model Deployment - API
+1. Exporting trained model
+2. creating end to end API.
+3. Model Deployment - API
 
 ## Tableau Foundation
 Data Scientist Track – Core Module
@@ -224,15 +275,21 @@ Included
 
 
 ### Module 1 Tableau Introduction
-Tableau Interface, Dimensions and measures, filter shelf,
-Distributing and publishing
+1. Tableau Interface
+2. Dimensions and measures
+3. filter shelf
+4. Distributing and publishing
 ### Module 2 Connecting to Data Source
-Connecting to sources, excel, data bases, api , pdf.
+1. Connecting to sources
+2. excel
+3. data bases
+4. api 
+5. pdf.
 Extracting and interpreting data.
 ### Module 3 Visual Analytics
-Charts and plots with Super Store data
+1. Charts and plots with Super Store data
 ### Module 4 Forecasting
-Forecasting time series data. Sales.
+1. Forecasting time series data. Sales.
 
 ## Data Science Business
 Data Scientist Track – Core Module
@@ -249,17 +306,22 @@ Included
 
 
 ### Module 1 Understanding Business Case
-Components of Business Case. ROI calculation
-techniques. Scoping.
+1. Components of Business Case
+2. ROI calculation
+techniques
+3. Scoping.
 ### Module 2 Writing Data Science Business Case
-Defining Business opportunity. Translating to Data
-Science problem. Creating project plan.
+1. Defining Business opportunity. 
+2. Translating to Data
+Science problem. 
+3. Creating project plan.
 ### Module 3 Benefits Analysis
-Demonstrating break even and benefits analysis with
+1. Demonstrating break even and benefits analysis with
 Data Science Solutions.
 ### Module 4 Starting project, Setting up Team and closing.
-Initiating Project, Setting up the Team, delivering and
-closing project.
+1. Initiating Project
+2. Setting up the Team
+3. delivering and closing project.
 
 
 Follow us on :
