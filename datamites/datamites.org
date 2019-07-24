@@ -1,0 +1,80 @@
+* Datamites
+
+
+
+Whether to start a new restuarant example
+East india company example
+
+Data science is quite old
+
+Centralized mainfarame -> data warehouse -> business intelligence -> data mining -> analytics
+
+** Data Islands
+https://en.wikipedia.org/wiki/Data_island
+** Data centralization
+https://www.google.co.in/search?q=data+centralization&oq=data+centraliz&aqs=chrome.0.35i39j69i57j0l4.3128j0j4&client=ubuntu&sourceid=chrome&ie=UTF-8
+
+*** Data warehouse
+*** Business intelligence
+*** Cloud virtual
+
+
+** Main frame
+https://en.wikipedia.org/wiki/Mainframe_computer
+** Virtualization
+https://www.google.co.in/search?q=virtualization&oq=virtualization&aqs=chrome..69i57j0l5.2640j0j9&client=ubuntu&sourceid=chrome&ie=UTF-8
+
+* Artificial intelligence 
+
+** John Mccarthy
+** Geoffrey hilton
+** Yann Lecun
+** Andrew ng
+
+
+* Areas of artificial intelligence
+
+AI is not a field. 
+It is a collection of fields
+
+** Computer vision
+Opencv.org
+
+** Natural language processing
+ok google
+alexa
+
+** Machine learning
+Conceptually ml and dl are same
+
+Machine learning is big because of its direct business application
+
+** Decision making
+
+** Robotics
+
+
+* 70 % of the course ML
+
+* About the course
+sun statistics
+
+sat numpy, pandas data preparation
+sun visual matplotlib, lr, logr
+
+sat ml tech
+sun 4 ml
+
+
+sat ad ml tech, time series tableu
+sun cnn, regex, 
+
+
+hackathon on wednesdays
+
+
+740 660 9000
+
+* Programming is less important for machine learning
+
+* Refresh linear algebra Probability derivation
